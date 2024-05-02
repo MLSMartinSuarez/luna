@@ -162,7 +162,7 @@ function registrarDatos ()  {
         dataNombre.innerHTML = `Bueno, te queda ${datoNombre}`
         dataMail.innerHTML = `Dale, si no me cancelas por una "amiga" vamos al ${datoMail}`
         dataSeleccion.innerHTML = `${datoSelect} lo acepto, pero le voy a poner mas onda`
-        dataTip.innerHTML = "Todo mal iguak"
+        dataTip.innerHTML = "Todo mal igual"
 
     } else if (datoSelect == "10 puntos" ){
 
